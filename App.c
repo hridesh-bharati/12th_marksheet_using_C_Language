@@ -18,7 +18,7 @@ void obtain(int hi, int eng,int math, int computer, int sst, int science){
 
 // for Percentage
 float per(){
-	return percentage = (marks*100)/mm;\
+	return percentage = (marks*100)/mm;
 }
 
 
@@ -87,7 +87,7 @@ int main(){
 	
 	//Percentage : function with no argunemt and return value;
     float x = per();
-	printf("\n\t\t\t\t\tYour percentage: %.2f% ", x);
+	printf("\n\t\t\t\t\tYour percentage: %.2f%% ", x);
 	
 	// Result: (Pass/fail)
 	// fuction with no argument but no return value;
