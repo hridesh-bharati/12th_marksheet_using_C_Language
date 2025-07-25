@@ -2,7 +2,7 @@
 #include<conio.h>
 
 // Globle variables
-    char schoolName[50] = "Rajendra prasad tarachnad";
+        char schoolName[50] = Drishtee Education and Inter College Nichlaul ";
 	char stdName[10000] ;
 	int rollNum;
 	int hi,eng,math,computer,sst,science,obt,mm=600;
